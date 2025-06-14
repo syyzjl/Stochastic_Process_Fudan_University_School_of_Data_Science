@@ -3,7 +3,7 @@ notes of the course
 
 
 # About the lecture
-Given by Wang Qinwen, in the spring semester from feburary to june.
+Given by Wang Qinwen, in the 2025 spring semester from feburary to june.
 
 # Contents
 Some contents in the syllabus are omitted because of frequent holidays.
