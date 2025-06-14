@@ -1,6 +1,6 @@
 # Stochastic_Process_Fudan_University_School_of_Data_Science
 notes of the course
-
+复旦大学大数据学院随机过程导论2025春
 
 # About the lecture
 Given by Wang Qinwen, in the 2025 spring semester from feburary to june.
